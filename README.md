@@ -57,7 +57,7 @@ curt-whatsapp-bot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/curt-whatsapp-bot.git
+git clone https://github.com/ahmed-ali-codes/curt-whatsapp-bot.git
 cd curt-whatsapp-bot
 ```
 
